@@ -1,0 +1,4 @@
+Device: Samgsung Galaxi S8
+
+API Level 26 (Oreo 8.0.0)
+
